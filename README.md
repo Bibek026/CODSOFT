@@ -12,15 +12,15 @@ You can incorporate additional details as follows:
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
 ## TASK 2 : STUDENT GRADE CALCULATOR
-1.Input: Take marks obtained (out of 100) in each subject.
-2.Calculate Total Marks: Sum up the marks obtained in all subjects.
-3.Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
+1. Input: Take marks obtained (out of 100) in each subject.
+2. Calculate Total Marks: Sum up the marks obtained in all subjects.
+3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
 average percentage.
-4.Grade Calculation: Assign grades based on the average percentage achieved.
-5.Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+4. Grade Calculation: Assign grades based on the average percentage achieved.
+5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
 ## TASK 3 : ATM INTERFACE
-1.Create a class to represent the ATM machine.
+1. Create a class to represent the ATM machine.
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
 3. Implement methods for each option, such as withdraw(amount), deposit(amount), and
