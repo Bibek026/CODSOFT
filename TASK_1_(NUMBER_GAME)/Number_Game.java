@@ -1,3 +1,5 @@
+// NUMBER GAME
+
 import java.util.Scanner;
 
 public class Number_Game {
